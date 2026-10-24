@@ -10,21 +10,18 @@ I'm passionate about **Data, AI, and Technology**, with an interest in building 
 - 💡 Always curious about emerging technologies and meaningful innovation
 - 🤝 Open to interesting ideas, collaborations, and learning opportunities
 
-💼 Experience
+### 💼 Experience
 
-Godrej Properties · Pune | May – July 2026
+**Godrej Properties** · *Pune | May – July 2026*
 
-Worked on construction schedule intelligence and activity replanning.
+- Built a construction activity replanning system to analyze schedule delays and downstream dependencies across 300+ construction activities.
+- Developed dependency graphs using **Python and NetworkX** to model activity relationships and support schedule analysis.
+- Integrated **Ollama and Llama 3.1** with tool-based workflows and built a **Streamlit dashboard** to visualize schedules and compare replanning scenarios.
 
-Used Python, NetworkX, and Streamlit to model activity dependencies, analyze delays, and visualize schedule alternatives.
+**Bluestock** · *Remote | September 2026*
 
-Explored local LLM-powered tools to support intelligent construction schedule replanning.
-
-Bluestock · Remote | September 2026
-
-Gained practical experience through a remote internship, contributing to assigned project tasks.
-
-Collaborated on project deliverables and applied technical skills to practical problem-solving.
+- Contributed to assigned internship projects in a remote working environment.
+- Applied technical skills, collaborated on deliverables, and developed practical problem-solving experience.
 
 ### 🛠️ Technologies & Tools
 
