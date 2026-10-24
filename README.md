@@ -18,7 +18,7 @@ I'm passionate about **Data, AI, and Technology**, with an interest in building 
 - Developed dependency graphs using **Python and NetworkX** to model activity relationships and support schedule analysis.
 - Integrated **Ollama and Llama 3.1** with tool-based workflows and built a **Streamlit dashboard** to visualize schedules and compare replanning scenarios.
 
-**Bluestock** · *Remote | September 2026*
+**Bluestock** · *Remote | September 2025*
 
 - Contributed to assigned internship projects in a remote working environment.
 - Applied technical skills, collaborated on deliverables, and developed practical problem-solving experience.
